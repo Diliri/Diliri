@@ -1,3 +1,5 @@
+<img align="center" alt="dianas-hero-pic" width="600px" src="https://raw.githubusercontent.com/diliri/diliri/main/assets/img2d.jpg" />
+
 ## Hi there 👋
 
 <!--
